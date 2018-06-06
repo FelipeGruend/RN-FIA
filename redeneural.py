@@ -13,4 +13,6 @@ features_train = breastCancerData[['Clump Thickness', 'Uniformity of Cell Size',
 
 label_train = breastCancerData['Class']
 
+
+
 print(label_train)
