@@ -31,8 +31,8 @@ com 100 “neurônios” (perceptrons) cada e uma camada para saída. Tais aspec
 A rede Multilayer Pecerptron é um algoritmo de aprendizado supervisionado que aprende uma função por meio de um treinamento a 
 partir de um banco de dados como entrada. Tal função é não- linear, aproximada e tem o ofício de classificação no projeto. 
 Cada neurônio desta rede está ligado com todos os outros das camadas vizinhas, mas os neurônios de uma mesma camada não se 
-comunicam. Obtém-se, assim,	uma comunicação unidirecional, definindo um comportamento estático para esta 	rede. 
-Sua estrutura é composta de uma camada de entrada, camadas intermediárias e uma camada de saída. Na camada de entrada dispõe-
-se das amostras e das respectivas saídas desejadas para que, assim, nas camadas intermediárias os	pesos e limiares sejam
-ajustados continuamente pelo algoritmo de 	aprendizagem, conforme o treinamento supervisionado. Na camada de saída recebe-se 
-os estímulos da camada intermediária e constrói o padrão que será a resposta.  
+comunicam. Obtém-se, assim,	uma comunicação unidirecional, definindo um comportamento estático para esta 	rede. Sua estrutura é 
+composta de uma camada de entrada, camadas intermediárias e uma camada de saída. Na camada de entrada dispõe-se das amostras e 
+das respectivas saídas desejadas para que, assim, nas camadas intermediárias os	pesos e limiares sejam ajustados continuamente 
+pelo algoritmo de aprendizagem, conforme o treinamento supervisionado. Na camada de saída recebe-se os estímulos da camada 
+intermediária e constrói-se o padrão que será a resposta.  
